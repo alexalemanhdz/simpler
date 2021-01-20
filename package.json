@@ -2,9 +2,8 @@
   "name": "simpler",
   "version": "1.0.0",
   "description": "a comfy homepage inspired on windows 95",
-  "main": "index.js",
   "repository": "git@github.com:alexalemanhdz/simpler.git",
-  "author": "alexalemanhdz <alex.aleman.public@gmail.com>",
+  "author": "aleman <aleman@lytica.ai>",
   "license": "MIT",
   "private": false,
   "dependencies": {
