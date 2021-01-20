@@ -5,7 +5,7 @@ module.exports = {
     // 'redux-saga',
     'react',
     'react-hooks',
-    'jsx-a11y'
+    'jsx-a11y',
   ],
   env: {
     jest: true,
@@ -72,15 +72,15 @@ module.exports = {
     'react/require-extension': 0,
     'react/self-closing-comp': 0,
     'react/sort-comp': 0,
-    'redux-saga/no-yield-in-race': 2,
-    'redux-saga/yield-effects': 2,
+    // 'redux-saga/no-yield-in-race': 2,
+    // 'redux-saga/yield-effects': 2,
     'require-yield': 0,
   },
   settings: {
-    'import/resolver': {
-      webpack: {
-        config: './internals/webpack/webpack.prod.babel.js',
-      },
-    },
+    // 'import/resolver': {
+    //   webpack: {
+    //     config: './internals/webpack/webpack.prod.babel.js',
+    //   },
+    // },
   },
 };
