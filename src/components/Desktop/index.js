@@ -3,6 +3,8 @@ import styled from 'styled-components';
 
 import theme from '../../utils/theme';
 
+import Icon from '../Icon';
+
 const Container = styled.div`
   background-color: ${theme.palette.background.primary};
   height: 100%;
@@ -11,7 +13,7 @@ const Container = styled.div`
 
 const Desktop = () => (
   <Container>
-    <p>Hello Desktop</p>
+    <Icon />
   </Container>
 );
 
