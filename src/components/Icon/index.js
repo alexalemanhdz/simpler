@@ -7,7 +7,7 @@ const Container = styled.a`
   color: white;
   font-family: monospace;
   text-shadow: black 1px 1px 1px;
-  max-width: 32px;
+  width: 32px;
   margin: 5px;
 
   &>div {
@@ -15,7 +15,7 @@ const Container = styled.a`
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    max-width: 32px;
+    width: 32px;
 
     &>p {
       margin-top: 5px;
