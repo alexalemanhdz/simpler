@@ -3,3 +3,6 @@
 
 # ESLint cache
 .eslintcache
+
+# build
+/build/
