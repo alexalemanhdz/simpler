@@ -37,16 +37,8 @@ const Desktop = () => (
       <Icon icon={org4channel} name="/jav/" url="https://boards.4channel.org/jp/jav" />
       <Icon icon={orgHispachan} name="/mx/" url="https://www.hispachan.org/mx/" />
       <Icon icon={orgHispachan} name="/i/" url="https://www.hispachan.org/i/" />
-      <Icon icon={orgHispachan} name="/t/" url="https://www.hispachan.org/t/" />
-      <Icon icon={orgLainchan} name="/λ/" url="https://lainchan.org/λ/" />
-      <Icon icon={orgLainchan} name="/Δ/" url="https://lainchan.org/Δ/" />
-      <Icon icon={orgLainchan} name="/sec/" url="https://lainchan.org/sec/" />
-      <Icon icon={orgLainchan} name="/Ω/" url="https://lainchan.org/Ω/" />
-      <Icon icon={orgLainchan} name="/lit/" url="https://lainchan.org/lit/" />
-      <Icon icon={orgLainchan} name="/drug/" url="https://lainchan.org/drug/" />
-      <Icon icon={orgLainchan} name="/zzz/" url="https://lainchan.org/zzz/" />
-      <Icon icon={orgWired7} name="/tech/" url="https://wired-7.org/tech/" />
-      <Icon icon={orgWired7} name="/x/" url="https://wired-7.org/x/" />
+      <Icon icon={orgLainchan} name="/mega/" url="https://lainchan.org/mega/" />
+      <Icon icon={orgWired7} name="/all/" url="https://wired-7.org/all/" />
       <Icon name="/chan/" url="https://bandada.club/chan/" />
     </div>
   </Container>
