@@ -34,7 +34,7 @@ const Desktop = () => (
       <Icon icon={org4channel} name="/lit/" url="https://boards.4channel.org/lit/" />
       <Icon icon={org4channel} name="/jav/" url="https://boards.4channel.org/jp/jav" />
       <Icon icon={orgHispachan} name="/mx/" url="https://www.hispachan.org/mx/" />
-      <Icon icon={orgHispachan} name="/mx/" url="https://www.hispachan.org/cc/" />
+      <Icon icon={orgHispachan} name="/cc/" url="https://www.hispachan.org/cc/" />
       <Icon icon={orgHispachan} name="/i/" url="https://www.hispachan.org/i/" />
       <Icon icon={orgLainchan} name="/mega/" url="https://lainchan.org/mega/" />
       <Icon icon={orgWired7} name="/nexo/" url="https://wired-7.org/nexo.html" />
