@@ -1,21 +1,17 @@
 {
   "files": {
-    "main.js": "/simpler/static/js/main.48ff28e5.chunk.js",
-    "main.js.map": "/simpler/static/js/main.48ff28e5.chunk.js.map",
+    "main.js": "/simpler/static/js/main.b1178b22.chunk.js",
+    "main.js.map": "/simpler/static/js/main.b1178b22.chunk.js.map",
     "runtime-main.js": "/simpler/static/js/runtime-main.54ef6bb1.js",
     "runtime-main.js.map": "/simpler/static/js/runtime-main.54ef6bb1.js.map",
-    "static/js/2.3f4795fa.chunk.js": "/simpler/static/js/2.3f4795fa.chunk.js",
-    "static/js/2.3f4795fa.chunk.js.map": "/simpler/static/js/2.3f4795fa.chunk.js.map",
+    "static/js/2.6a717a6c.chunk.js": "/simpler/static/js/2.6a717a6c.chunk.js",
+    "static/js/2.6a717a6c.chunk.js.map": "/simpler/static/js/2.6a717a6c.chunk.js.map",
     "index.html": "/simpler/index.html",
-    "static/js/2.3f4795fa.chunk.js.LICENSE.txt": "/simpler/static/js/2.3f4795fa.chunk.js.LICENSE.txt",
-    "static/media/4channel-org-favicon.ffd6ff1d.ico": "/simpler/static/media/4channel-org-favicon.ffd6ff1d.ico",
-    "static/media/hispachan-org-favicon.c0f02608.ico": "/simpler/static/media/hispachan-org-favicon.c0f02608.ico",
-    "static/media/lainchan-org-favicon.f815da9b.png": "/simpler/static/media/lainchan-org-favicon.f815da9b.png",
-    "static/media/wired-7-org-favicon.1388bd14.ico": "/simpler/static/media/wired-7-org-favicon.1388bd14.ico"
+    "static/js/2.6a717a6c.chunk.js.LICENSE.txt": "/simpler/static/js/2.6a717a6c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.54ef6bb1.js",
-    "static/js/2.3f4795fa.chunk.js",
-    "static/js/main.48ff28e5.chunk.js"
+    "static/js/2.6a717a6c.chunk.js",
+    "static/js/main.b1178b22.chunk.js"
   ]
 }
